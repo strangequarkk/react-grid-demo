@@ -49,6 +49,7 @@ main.bar-open {
 main.rbar-closed {
   grid-column-end: 4;
 }
+
 /* 
 If you wanted to keep the toggle state logic inside the togglebar component,
 you could use sibling selectors to allow main to react to its sibling's states.
